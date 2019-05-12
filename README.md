@@ -1,28 +1,25 @@
-# This is a large heading
+# Linesh Badole
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Dallas, in the state of Texas, in the United States
+of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *The Total Money Makeover* by Dave Ramsey
+- *The Alchemist* 
 
-```
-This is
-a block
-of code
-```
+### Tech
 
-Here is how you make [a link](https://www.wikipedia.org/).
+The tech that I love these days.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Internet: Youtube : the best free teacher for me
+2. Smarthomes: Google Assistant, Connected devices 
+3. Programming
+
+### Contact
+
+The best way to get in touch with me is to email me on lineshmavni@gmail.com
